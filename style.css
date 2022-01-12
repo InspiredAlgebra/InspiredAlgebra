@@ -1,0 +1,14 @@
+html::-webkit-scrollbar {
+    display: none;
+}
+
+*{
+  height: 100%;
+  width: 100%;
+}
+
+.input{
+  height: 5%;
+  width: 90%;
+  margin-bottom: 2%;
+}
